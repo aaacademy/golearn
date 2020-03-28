@@ -56,3 +56,5 @@ func main() {
 
 Jalankan dengan cara `go run nama-file.go`, perhatikan gambar berikut.
 ![Go run](asrul-go.png)
+
+> n/b: fmt adalah package bawaan go untuk proses Input Output (I/O) dalam format analog,https://golang.org/pkg/fmt
